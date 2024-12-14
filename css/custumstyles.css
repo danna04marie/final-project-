@@ -1,0 +1,41 @@
+h1{
+  color: rgb(210, 206, 233);
+  background-color: rgb(158, 35, 97);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  font-size: 37px;
+  margin: 25px;
+  padding: 24px;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(223, 166, 185);
+  color: rgb(13, 13, 89);
+
+}
+.button{
+  padding: 25px;
+}
+.If{
+  background-color: rgb(52, 130, 179);
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 65px;
+  text-align: center;
+  margin-left: 65px;
+  font-size: 20px;
+  color:rgb(210, 206, 233)
+
+}
+.span{
+  text-decoration: underline;
+}
+
+.image{
+  width: 400px;
+  margin-left: 145px;
+
+}
